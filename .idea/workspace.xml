@@ -5,26 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18637235-61a4-4ef4-aea2-ef2921eee86e" name="Changes" comment="Amendment">
-      <change afterPath="$PROJECT_DIR$/images/thumbnails/work-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/thumbnails/work-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/thumbnails/work-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/thumbnails/work-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/thumbnails/work-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/thumbnails/work-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/thumbnails/work-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/blog/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/business-website/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/ecommerce/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/job-board/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/landing-page/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/mobile-app/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/personal-website/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/social-network/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cover_bg_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/thumbnails/work-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio-8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cover_bg_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/user-3.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/crimsonoid/WebstormProjects/Portfolio/images/thumbnails",
+    "last_opened_file_path": "/home/crimsonoid/WebstormProjects/Portfolio/projects/social-network",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,11 +54,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images/thumbnails" />
-      <recent name="$PROJECT_DIR$/.github/ISSUE_TEMPLATE" />
-      <recent name="$PROJECT_DIR$/.github" />
-      <recent name="$PROJECT_DIR$/sass/bootstrap/mixins" />
-      <recent name="$PROJECT_DIR$/sass/bootstrap" />
+      <recent name="$PROJECT_DIR$/projects/social-network" />
+      <recent name="$PROJECT_DIR$/projects/personal-website" />
+      <recent name="$PROJECT_DIR$/projects/mobile-app" />
+      <recent name="$PROJECT_DIR$/projects/landing-page" />
+      <recent name="$PROJECT_DIR$/projects/job-board" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images/thumbnails" />
@@ -85,7 +76,7 @@
       <updated>1676930694193</updated>
       <workItem from="1676930695316" duration="4621000" />
       <workItem from="1676938423999" duration="1642000" />
-      <workItem from="1676940075068" duration="21053000" />
+      <workItem from="1676940075068" duration="22538000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1676933322356</created>
@@ -290,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676999369444</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Amendment">
+      <created>1676999556378</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1676999556378</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

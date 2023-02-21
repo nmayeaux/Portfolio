@@ -5,26 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18637235-61a4-4ef4-aea2-ef2921eee86e" name="Changes" comment="Amendment">
-      <change afterPath="$PROJECT_DIR$/projects/blog/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/business-website/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/ecommerce/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/job-board/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/landing-page/browserconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/landing-page/images/favicons/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/landing-page/images/favicons/android-chrome-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/landing-page/images/favicons/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/landing-page/images/favicons/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/landing-page/images/favicons/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/landing-page/images/favicons/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/landing-page/images/favicons/mstile-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/landing-page/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/landing-page/site.webmanifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/mobile-app/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/personal-website/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/social-network/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/contact-form-process.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cover_bg_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/user-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +68,7 @@
       <updated>1676930694193</updated>
       <workItem from="1676930695316" duration="4621000" />
       <workItem from="1676938423999" duration="1642000" />
-      <workItem from="1676940075068" duration="23641000" />
+      <workItem from="1676940075068" duration="24760000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1676933322356</created>
@@ -304,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677003285823</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Amendment">
+      <created>1677003292218</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1677003292218</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

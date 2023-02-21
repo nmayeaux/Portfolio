@@ -69,11 +69,6 @@ h1, h2, h3, h4, h5, h6, figure {
   margin: 0 0 20px 0;
 }
 
-::-webkit-selection {
-  color: #fff;
-  background: #FF9000;
-}
-
 ::-moz-selection {
   color: #fff;
   background: #FF9000;
@@ -221,7 +216,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-features {
-  background: #FF9000;
+  background: #DC143C;
 }
 #fh5co-features h2 {
   color: #fff;
@@ -307,7 +302,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .fh5co-bg-dark {
   background: #2F3C4F;
-  background: #FF9000;
+  background: #DC143C;
 }
 .fh5co-bg-dark .fh5co-heading h2 {
   color: #fff !important;

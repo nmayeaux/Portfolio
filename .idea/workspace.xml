@@ -5,6 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18637235-61a4-4ef4-aea2-ef2921eee86e" name="Changes" comment="Amendment">
+      <change afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/bootstrap/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/icomoon/icomoon/demo-files/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/icomoon/icomoon/fonts/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/icomoon/icomoon/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/icomoon/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/backgrounds/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icons/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/bootstrap/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -29,26 +41,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/crimsonoid/WebstormProjects/Portfolio/images/backgrounds&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/crimsonoid/WebstormProjects/Portfolio/.github/ISSUE_TEMPLATE",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images/backgrounds" />
-      <recent name="$PROJECT_DIR$/images/icons" />
-      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/.github/ISSUE_TEMPLATE" />
+      <recent name="$PROJECT_DIR$/.github" />
+      <recent name="$PROJECT_DIR$/sass/bootstrap/mixins" />
+      <recent name="$PROJECT_DIR$/sass/bootstrap" />
       <recent name="$PROJECT_DIR$/sass" />
-      <recent name="$PROJECT_DIR$/js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images/favicons" />
@@ -65,7 +77,7 @@
       <updated>1676930694193</updated>
       <workItem from="1676930695316" duration="4621000" />
       <workItem from="1676938423999" duration="1642000" />
-      <workItem from="1676940075068" duration="15302000" />
+      <workItem from="1676940075068" duration="19325000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1676933322356</created>
@@ -249,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676993616636</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Amendment">
+      <created>1676993626932</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1676993626932</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

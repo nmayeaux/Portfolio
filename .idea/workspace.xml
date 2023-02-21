@@ -8,6 +8,10 @@
       <change afterPath="$PROJECT_DIR$/images/thumbnails/work-2.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/images/thumbnails/work-3.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/images/thumbnails/work-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/thumbnails/work-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/thumbnails/work-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/thumbnails/work-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/thumbnails/work-8.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/blog-1.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/images/blog-2.jpg" beforeDir="false" />
@@ -81,7 +85,7 @@
       <updated>1676930694193</updated>
       <workItem from="1676930695316" duration="4621000" />
       <workItem from="1676938423999" duration="1642000" />
-      <workItem from="1676940075068" duration="20728000" />
+      <workItem from="1676940075068" duration="21053000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1676933322356</created>
@@ -279,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676997869028</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Amendment">
+      <created>1676999369444</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1676999369444</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18637235-61a4-4ef4-aea2-ef2921eee86e" name="Changes" comment="Amendment">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="18637235-61a4-4ef4-aea2-ef2921eee86e" name="Changes" comment="Amendment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +31,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/crimsonoid/WebstormProjects/Portfolio",
+    "last_opened_file_path": "/home/crimsonoid/WebstormProjects/Portfolio/images/icons",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -43,11 +41,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/icons" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/sass" />
       <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$/fonts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images/favicons" />
@@ -64,7 +62,7 @@
       <updated>1676930694193</updated>
       <workItem from="1676930695316" duration="4621000" />
       <workItem from="1676938423999" duration="1642000" />
-      <workItem from="1676940075068" duration="1550000" />
+      <workItem from="1676940075068" duration="2141000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1676933322356</created>
@@ -150,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676941366745</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Amendment">
+      <created>1676941907650</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1676941907650</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
